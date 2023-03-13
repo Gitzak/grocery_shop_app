@@ -1,3 +1,5 @@
+![alt text](https://github.com/Gitzak/grocery_shop_app/blob/main/screenshot.png)
+
 # grocery_shop_app
 
 A new Flutter project.
